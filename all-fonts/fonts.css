@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: 'avenir-condensed-regular';
+    src: url('avenir_next_condensed-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'avenir-condensed-bold';
+    src: url('avenir-next-condensed-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'avenir-regular';
+    src: url('avenirnext-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'beaufort-bold-italic';
+    src: url('beaufortforlol-bolditalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'beaufort-heavy';
+    src: url('beaufortforlol-heavy-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'beaufort-heavy-italic';
+    src: url('beaufortforlol-heavyitalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
